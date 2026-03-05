@@ -1,33 +1,25 @@
 # SQL Learning Journey
 
-This repository contains my SQL learning practice and mini projects as part of my Data Science journey.
+This repository contains my SQL practice while learning Data Analysis.
 
 ## Topics Covered
 
-* Basic SQL Queries
-* Filtering Data (WHERE, AND, OR)
-* Sorting Data (ORDER BY)
-* Aggregations (COUNT, SUM, AVG)
-* Joins
-* Subqueries
-* Data Analysis Queries
-
-## Folder Structure
-
-* **datasets** → Sample datasets used for practice
-* **practice_queries** → Daily SQL practice queries
-* **mini_projects** → Real-world SQL analysis projects
+Day 1
+- CREATE TABLE
+- INSERT INTO
+- SELECT
+- Constraints
+- PRIMARY KEY
+- Foreign Keys
+- CHECK
+- AUTOINCREMENT
+- UNIQUE
+- NOT NULL
+- DEFAULT
 
 ## Tools Used
+- SQLite
+- GitHub
 
-* MySQL / PostgreSQL
-* Kaggle datasets
-* GitHub
-
-## Goal
-
-To strengthen my SQL skills for Data Analytics and Data Science.
-
----
-
-⭐ Learning every day and improving my data skills!
+## Author
+Himani S Devadiga
