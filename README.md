@@ -20,6 +20,9 @@ Day 1
 ## Tools Used
 - SQLite
 - GitHub
+## proof of work
+
+<img width="1830" height="936" alt="Screenshot 2026-03-05 233205" src="https://github.com/user-attachments/assets/bb281ef8-1bd3-4a9a-a806-d4c834b79491" />
 
 ## Author
 Himani S Devadiga
